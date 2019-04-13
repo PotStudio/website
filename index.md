@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to PotStudio
 
-You can use the [editor on GitHub](https://github.com/PotStudio/website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+大土豆工作室致力于人工智能及机器人研发，希望广大AI及ROS开发者加入交流
 
 ### Markdown
 
