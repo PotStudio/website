@@ -1,14 +1,11 @@
 ## Welcome to PotStudio
 
+
+### 工作室简介
+
 大土豆工作室致力于人工智能及机器人研发，希望广大AI及ROS开发者加入交流
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+```
 # Header 1
 ## Header 2
 ### Header 3
@@ -21,10 +18,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[zhangteng.top](zhangteng.top) and ![123](/images/robot.JPG)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Jekyll Themes
 
