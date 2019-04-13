@@ -13,7 +13,8 @@
 
 
 ### 作品简介
-														三轮视觉跟随机器人
-![123](/images/robot.JPG)
+<div align=center>![三轮视觉跟随机器人](/images/robot.JPG)
 
+<img src="/images/robot.JPG" width = "100" height = "100" div align=center />
 
+2019/4/13 15:18:15 
